@@ -11,11 +11,9 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title>
-          Quasar App
-        </q-toolbar-title>
+        <q-toolbar-title>Jose Cabrera</q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>jjja  ya llego por quien lloraban chiquitas</div>
       </q-toolbar>
     </q-header>
 
